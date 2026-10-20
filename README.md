@@ -29,6 +29,5 @@ Os sistemas institucionais acima são privados. O código público está nos rep
 ## Atualmente
 
 - Cursando Ciência da Computação no UNIPÊ (Bacharelado, 2025 – 2028)
-- Desenvolvendo um gerenciador de tarefas estilo Trello na disciplina de CI/CD e DevOps
 - Criando sites e sistemas web para pequenos negócios como freelancer
 - Em busca de estágio em back-end
