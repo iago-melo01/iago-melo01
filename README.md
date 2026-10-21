@@ -1,4 +1,4 @@
-# Olá, eu sou o Iago Melo 👋
+# Olá, eu sou o Iago Melo 
 
 Desenvolvedor back-end trabalhando com **PHP/Laravel** e **Python/Django**: modelagem de dados, regras de negócio, autenticação e controle de acesso por perfil.
 
